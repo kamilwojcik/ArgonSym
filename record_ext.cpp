@@ -1,6 +1,8 @@
 #include "record_ext.h"
 #include <iostream>
 
+using namespace std;
+
 void record_ext::copy(record_ext& other)
 {
 	for (int coord=0; coord<3; coord++) for (int atom=0; atom<1000; atom++)

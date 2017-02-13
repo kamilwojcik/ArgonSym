@@ -9,7 +9,6 @@
 
 #ifndef RECORD_EXT_H
 #define RECORD_EXT_H
-#include "record.h"
 
 class record_ext
 {
