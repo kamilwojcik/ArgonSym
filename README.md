@@ -16,5 +16,8 @@ A simple simulation of 1k argon atoms in cube which edge length is about 36 Angs
 - obliczenia2.cpp - generating two other statistics: VCF and MSD
 
 
-TO COMPILE you need to have ROOT installed. Then add to g++:
+TO COMPILE you need to have ROOT installed. Then add to g++ command:
 --std=c++11 `root-config --cflags glibs`
+
+
+This project is obviously not perfect. Please, be lenient ;)
